@@ -26,11 +26,12 @@ To get started, follow these steps:
 (The SDK can be downloaded from the [LunarG website](https://vulkan.lunarg.com/))
 
 2. Let's now configure the project to get rid of the errors. Open the project properties dialog and ensure that All Configurations is selected, because most of the settings apply to both Debug and Release mode.
-
+   
+![Screenshot_3](https://github.com/g-truc/glm/assets/74787246/8c95ad39-5c88-46ab-a661-b73facc83a1e)
 ![Screenshot_4](https://github.com/g-truc/glm/assets/74787246/6d0ac86a-43d9-452d-ae7e-5aee9955e745)
 
 
-3. Go to ``` C++ -> General -> Additional Include Directories and press <Edit...>```in the dropdown box.
+4. Go to ``` C++ -> General -> Additional Include Directories and press <Edit...>```in the dropdown box.
 
 ![Screenshot_5](https://github.com/g-truc/glm/assets/74787246/50ef87e4-dd16-4906-ad5b-d46597ce24f1)
 
