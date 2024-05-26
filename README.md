@@ -4,7 +4,7 @@ This project is a Vulkan application that demonstrates the fundamental structure
 
 For more information about Vulkan and detailed guides, you can visit the [Vulkan Tutorial](https://vulkan-tutorial.com/) website. This site provides step-by-step tutorials and examples for those who want to learn the Vulkan API.
 
-https://github.com/g-truc/glm/assets/74787246/effab9f8-a8e6-464a-bdf4-d6fb9285b0ba
+https://github.com/yesillmustafa/vulkan-app/assets/74787246/220da30a-d188-4b72-b4f5-b8dda5908741
   
 ## Prerequisites
 
